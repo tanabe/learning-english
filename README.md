@@ -51,3 +51,6 @@ TOEIC 学習時のメモ
     * X を Y のおかげとする
     * to は前置詞
 * in which / at which == where
+* consider doing
+    * 〜をよく考える
+    * 動名詞を目的語にとる。不定詞は使えない。
