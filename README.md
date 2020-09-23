@@ -22,6 +22,8 @@ TOEIC 学習時のメモ
     * (形) 期待外れの
 * engaging
     * (形) 魅力のある
+* promising
+    * (形) 前途有望な
 * look as if
     * 〜のようだ
 * be instrumental in doing
