@@ -47,6 +47,8 @@ TOEIC 学習時のメモ
     * X にワクワクしている
 * be committed to X
     * X に専念する
+* be eager to do
+    * 〜したくてたまらない
 * another 数詞 X でさらに X
     * There are another three rooms upstairs.
 * credit X to Y
@@ -56,3 +58,6 @@ TOEIC 学習時のメモ
 * consider doing
     * 〜をよく考える
     * 動名詞を目的語にとる。不定詞は使えない。
+* depebndable
+    * (形) 信頼できる
+* enough は可算名詞、不可算名詞どちらでも使える
