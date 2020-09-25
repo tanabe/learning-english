@@ -61,3 +61,5 @@ TOEIC 学習時のメモ
 * depebndable
     * (形) 信頼できる
 * enough は可算名詞、不可算名詞どちらでも使える
+* in support of X
+    * X を支持して
