@@ -4,7 +4,7 @@ TOEIC L&R テスト向け学習時のメモ
 
 ## 文法
 
-### none と nonthing
+### none と nothing
 
 * none は複数、nothing は単数
 * none は特定された先行名詞句が必要
