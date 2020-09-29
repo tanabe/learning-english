@@ -55,7 +55,7 @@ TOEIC L&R テスト向け学習時のメモ
 * consider doing
     * 〜をよく考える
     * 動名詞を目的語にとる。不定詞は使えない。
-* depebndable
+* dependable
     * (形) 信頼できる
 * enough は可算名詞、不可算名詞どちらでも使える
 * in support of X
