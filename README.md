@@ -74,3 +74,19 @@ TOEIC L&R テスト向け学習時のメモ
 * in support of X
     * X を支持して
 
+## TOEIC テクニック
+
+### Part 1
+
+* putting on と wearing に注意
+* have been と being に注意
+
+### Part 2
+
+* 素直じゃない応答例
+    * 知らないパターン
+    * 確認しますパターン
+    * 人に聞けパターン
+    * 誘導・促しパターン
+    * 未決定パターン
+    * 質問返しパターン
