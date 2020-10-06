@@ -12,7 +12,13 @@ TOEIC L&R テスト向け学習時のメモ
 ### 接続詞と前置詞
 
 * 接続詞は節同士をつなげられる。
-* 前置詞は名刺の前に置く。
+* 前置詞は名詞の前に置く。
+
+### 従属接続詞のあとの省略
+
+* when / while / if / unless / though などの接続詞のあとの「主語 + be 動詞」は、主節の主語と同一の場合は、省略可能。
+    * Workers should not drink while using computers.
+        * while のあとの they are が省略されている
 
 ### none と nothing
 
@@ -23,6 +29,7 @@ TOEIC L&R テスト向け学習時のメモ
 
 * カンマに節を繋ぐ機能はない。
 * that の前にカンマはこない。
+
 
 ## 英単語・熟語
 
