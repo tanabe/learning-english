@@ -30,7 +30,6 @@ TOEIC L&R テスト向け学習時のメモ
 * カンマに節を繋ぐ機能はない。
 * that の前にカンマはこない。
 
-
 ## 英単語・熟語
 
 * stipulate
@@ -72,14 +71,21 @@ TOEIC L&R テスト向け学習時のメモ
     * X を Y のおかげとする
     * to は前置詞
 * in which / at which == where
-* consider doing
-    * 〜をよく考える
-    * 動名詞を目的語にとる。不定詞は使えない。
 * dependable
     * (形) 信頼できる
 * enough は可算名詞、不可算名詞どちらでも使える
 * in support of X
     * X を支持して
+* 動名詞が続く語句 (MAJIDESUKFC)
+    * miss
+    * avoid
+    * justify
+    * include
+    * deny
+    * suggest
+    * keep
+    * finish
+    * consider
 
 ## TOEIC テクニック
 
