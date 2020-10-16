@@ -32,6 +32,8 @@ TOEIC L&R テスト向け学習時のメモ
 
 ## 英単語・熟語
 
+* arguably
+    * (副) おそらく
 * stipulate
     * (他) 〜を規定する 
 * disappointing
@@ -86,6 +88,11 @@ TOEIC L&R テスト向け学習時のメモ
     * keep
     * finish
     * consider
+* 接続詞と前置で使える
+    * before
+    * after
+    * until
+    * since
 
 ## TOEIC テクニック
 
