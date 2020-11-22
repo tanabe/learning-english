@@ -102,15 +102,24 @@ TOEIC L&R テスト向け学習時のメモ
 * enough は可算名詞、不可算名詞どちらでも使える
 * in support of X
     * X を支持して
-* 動名詞が続く語句 (MAJIDESUKFC)
+* 動名詞が続く語句 (SFDEMEGAMAPP = SF で目がマップップ)
+    * stop
+    * finish
+    * deny
+    * enjoy
+    * mind
+    * escape
+    * give up
+    * admit
     * miss
     * avoid
+    * postpone = put off
+    * practice
+* その他の動名詞が続く語句
     * justify
     * include
-    * deny
     * suggest
     * keep
-    * finish
     * consider
 * 接続詞と前置詞で使える
     * before
