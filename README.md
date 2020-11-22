@@ -102,7 +102,7 @@ TOEIC L&R テスト向け学習時のメモ
 * enough は可算名詞、不可算名詞どちらでも使える
 * in support of X
     * X を支持して
-* 動名詞が続く語句 (SFDEMEGAMAPP = SF で目がマップップ)
+* 動名詞が続く語句 (SFDE MEGA MAPP = SF で目がマップップ)
     * stop
     * finish
     * deny
