@@ -112,7 +112,7 @@ TOEIC L&R テスト向け学習時のメモ
     * keep
     * finish
     * consider
-* 接続詞と前置で使える
+* 接続詞と前置詞で使える
     * before
     * after
     * until
