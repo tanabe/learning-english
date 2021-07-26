@@ -54,7 +54,19 @@ TOEIC L&R テスト向け学習時のメモ
 * カンマに節を繋ぐ機能はない。
 * that の前にカンマはこない。
 
-## 英単語・熟語
+### 可算・不可算
+
+* some cars
+* some water
+* many cars
+* much water
+* several cars
+* a number of cars
+* an amount of water
+* enough cars
+* enough water
+
+## メモ
 
 * arguably
     * (副) おそらく
@@ -99,7 +111,6 @@ TOEIC L&R テスト向け学習時のメモ
 * in which / at which == where
 * dependable
     * (形) 信頼できる
-* enough は可算名詞、不可算名詞どちらでも使える
 * in support of X
     * X を支持して
 * 動名詞が続く語句 (SFDE MEGA MAPP = SF で目がマップップ)
